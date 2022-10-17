@@ -1,4 +1,6 @@
-# terraform
+# Terraform
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/buivantri1198/terraform)
 
 Azure
 
@@ -12,5 +14,7 @@ docker run -it -v "/workspace/terraform:/root" buivantri:v1 bash
 terraform plan -destroy -out main.destroy.tfplan
 terraform apply main.destroy.tfplan
 
-# Gitpod
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/buivantri1198/terraform)
+# Terraform refer
+
+1. https://www.terraform.io/docs
+2. 
